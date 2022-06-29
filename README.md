@@ -2,7 +2,7 @@
   
 # Constani Go Backend 
 
-<a href="https://www.codefactor.io/repository/github/constani/superapi"><img src="https://www.codefactor.io/repository/github/constani/superapi/badge" alt="CodeFactor" /></a>
+<a href="https://www.codefactor.io/repository/github/openanime/backend"><img src="https://www.codefactor.io/repository/github/openanime/backend/badge" alt="CodeFactor" /></a>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Constani/superapi">
 
 **Constani GoLang Backend to Manage Database Services and API Endpoints**
